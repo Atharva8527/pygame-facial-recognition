@@ -42,13 +42,6 @@ we will use another module called [pytransition](https://github.com/pytransition
  <img src="assets/gui2.jpg" alt="FACE RECOG" width = 270px, height = 240px></a>
 </div>
 
-#### Recognized Face
-```sh
-   The face once recognised shall be displayed as shown: 
-   PS: Don't expect a DP worthy pic to be taken xD
- ```
- <img src="assets/aah.jpg" alt="FACE RECOG" width = 270px, height = 240px></a>
-</div>
 
 #### Beyblade Game
 ```sh
